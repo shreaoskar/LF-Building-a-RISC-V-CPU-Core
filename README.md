@@ -6,35 +6,11 @@ This free mini-workshop, offered by by [Steve Hoover](https://www.linkedin.com/i
 
 This course is available [in this repository](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core-Course/blob/main/course.md) as well as via the [EdX platform](https://www.edx.org/course/building-a-risc-v-cpu-core) (with a certification option). Thousands have registered and/or completed this course, [including Claude](https://www.linkedin.com/posts/steve-hoover-a44b607_aitl-verilog-activity-7110383796658520066-LGzp) (Anthropic's AI chatbot):
 
-*If I were an actual student, I would give you glowing ratings as an instructor!*
+*My Rating: 9.6/10*
 
 &nbsp; &nbsp; &nbsp; *--Claude*
 
-![VIZ](LF_VIZ.png)
-
-## Welcome
-
-Congratulations for taking this step to expand your knowledge of computer hardware.
-
-At this time, there are no course corrections or platform issues to report. Please do let us know within the EdX platform if anything gets in your way. There's a great deal of infrastructure to maintain for the course, and we aim to keep it all running smoothly. Now, please head back to [EdX](https://www.edx.org/course/building-a-risc-v-cpu-core) or the [Markdown version](course.md) of this course and continue.
-
-## RISC-V Starting-Point Code
-
-To begin the first RISC-V lab, when instructed to do so, Ctrl-click this link to <a href="https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FLF-Building-a-RISC-V-CPU-Core%2Fmaster%2Frisc-v_shell.tlv" target="_blank" atom_fix="_">open starting-point code in makerchip</a>.
-
-## RISC-V Reference Solution
-
-In case you get stuck, we've got your back! These <a href="https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FLF-Building-a-RISC-V-CPU-Core%2Fmain%2Frisc-v_solutions.tlv" target="_blank" atom_fix="_">reference solutions</a> (Ctrl-click) will help with syntax, etc. without handing you the answers.
-
-Here's a pre-built logic diagram of the final CPU. Ctrl-click here to [explore in its own tab](https://raw.githubusercontent.com/stevehoover/LF-Building-a-RISC-V-CPU-Core/main/lib/riscv.svg).
-
-![Final Core](lib/riscv.svg)
-
-## Finished!
-
-Congratulations!!!
-
-After completing this course, we hope you are inspired to continue your journey. These ideas might help:
+After finishing, these ideas might help:
   - Try the tutorials in [Makerchip](https://makerchip.com).
   - Learn more about [TL-Verilog](https://redwoodeda.com/tl-verilog).
   - Explore the [RISC-V](https://riscv.org) ecosystem.
